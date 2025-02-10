@@ -8,7 +8,7 @@ A simple Spark Job using Java to perform aggregate on metrics by time stamp.
 ## Pre-requisite
 1. Java 11
 2. Maven 3.X.X
-3. ![Apache Spark](https://spark.apache.org/downloads.html)
+3. [Apache Spark](https://spark.apache.org/downloads.html)
 
 ## Build Locally
 1. Using Make file
