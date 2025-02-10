@@ -1,0 +1,92 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+          <option value="spark-batch-job" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="org.apache.avro:avro:1.11.2" />
+          <option value="org.apache.avro:avro:1.11.1" />
+          <option value="org.eclipse.jetty:jetty-server:9.4.15.v20190215" />
+          <option value="org.eclipse.jetty:jetty-xml:9.4.15.v20190215" />
+          <option value="org.eclipse.jetty:jetty-webapp:9.4.15.v20190215" />
+          <option value="org.eclipse.jetty:jetty-util:9.4.15.v20190215" />
+          <option value="org.eclipse.jetty:jetty-servlet:9.4.15.v20190215" />
+          <option value="org.eclipse.jetty:jetty-io:9.4.15.v20190215" />
+          <option value="org.eclipse.jetty:jetty-http:9.4.15.v20190215" />
+          <option value="org.eclipse.jetty:jetty-client:9.4.15.v20190215" />
+          <option value="org.xerial.snappy:snappy-java:1.1.9.1" />
+          <option value="org.scala-lang:scala-library:2.13.8" />
+          <option value="org.apache.zookeeper:zookeeper:3.6.3" />
+          <option value="org.apache.ivy:ivy:2.5.1" />
+          <option value="org.apache.commons:commons-compress:1.22" />
+          <option value="io.netty:netty-handler:4.1.87.Final" />
+          <option value="io.netty:netty-common:4.1.87.Final" />
+          <option value="io.netty:netty-codec-http:4.1.87.Final" />
+          <option value="io.netty:netty-codec-http2:4.1.87.Final" />
+          <option value="io.netty:netty-all:4.1.87.Final" />
+          <option value="io.airlift:aircompressor:0.21" />
+          <option value="commons-io:commons-io:2.11.0" />
+          <option value="com.google.protobuf:protobuf-java:3.21.12" />
+          <option value="com.google.guava:guava:16.0.1" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Other" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
